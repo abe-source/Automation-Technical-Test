@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ### Execute test cases
 
-To execute all test cases just run pytest in project folder
+To execute all test cases just run pytest in project folder.
 
 ```python
 pytest
