@@ -1,5 +1,3 @@
-# Untitled
-
 ### Requirements
 
 I have used Pytest, Selenium and Firefox browser, so only these two external dependencies and browser is required to successfully run test cases. 
@@ -7,8 +5,8 @@ I have used Pytest, Selenium and Firefox browser, so only these two external dep
 ### Installation
 
 ```python
-git clone 
-cd
+git clone https://github.com/abek101/Automation-Technical-Test.git
+cd Automation-Technical-Test
 pip install -r requirements.txt
 ```
 
